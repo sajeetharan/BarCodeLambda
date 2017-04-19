@@ -1,0 +1,15 @@
+{
+  "name": "ticombo-barcode",
+  "version": "1.0.0",
+  "description": "to detect barcode from pdf",
+  "main": "index.js",
+  "dependencies": {
+    "bluebird": "^3.5.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
